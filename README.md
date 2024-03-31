@@ -31,3 +31,4 @@ W przypadku pytań lub problemów, skontaktuj się ze mną.
    ```
 
 - Alternatywnie, instalator można pobrać ze strony producenta: [Visual Studio Code](https://code.visualstudio.com/).
+- Zachęcam również do przejrzenia zawartości moich profili VS Code. Jeśli dopiero zaczynasz używać VS Code, profile możesz zaimportować i używać w całości. Więcej szczegółów znajdziesz na stronie [Profile VS Code](vscode-profiles).
