@@ -10,3 +10,13 @@ W przypadku pytań lub problemów, skontaktuj się ze mną.
 - W czasie treningów będziesz pobierać kod z repozytoriów przechowywanych na GitHubie, dlatego potrzebujesz tam konta.
 - Choć nazwę konta można później zmienić, warto przemyśleć ją wcześniej, ponieważ tożsamość na GitHubie jest często istotna w branży.
 - Polecam od razu włączyć **dwuskładnikową autoryzację (2FA)**, np. za pomocą aplikacji Authenticator. Po założeniu konta na GitHubie, kliknij ikonę awatara w prawym górnym rogu strony, wybierz `Settings`, a następnie przejdź do sekcji `Password and authentication`.
+
+## Zainstalowany Git
+
+- Jeśli korzystasz z systemu Windows, w celu zainstalowania Gita polecam użyć `winget`:
+
+   ```console
+   winget install --id Git.Git
+   ```
+
+- Instalator Git można również pobrać ze strony: [Git](https://git-scm.com/).
